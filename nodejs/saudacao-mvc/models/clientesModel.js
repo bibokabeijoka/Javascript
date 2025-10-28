@@ -2,7 +2,7 @@ module.exports = {
   verificarLogin: (login, senha) => {
     let acesso;
 
-    if (login === "Biboka" && senha === "1234") {
+    if (login === "Biboka" && senha === "bibokabeijoka") {
       acesso = "logado";
 
     } else {
